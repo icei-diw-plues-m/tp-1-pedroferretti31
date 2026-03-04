@@ -3,8 +3,8 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
-- Matricula:
+- Nome: Pedro Ferretti Martins Maia
+- Matricula: 
 
 ## Tela de inspeção com navegador
 
